@@ -1,1 +1,1 @@
- README.md
+chmod u+x file
